@@ -4,4 +4,3 @@ def start(args):
     mul = args['input'][1]
     print('algorithm: multiply END')
     return input * mul
-
