@@ -6,4 +6,3 @@ def start(args):
     return input * mul
 
 
-
