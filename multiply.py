@@ -5,11 +5,3 @@ def start(args):
     print('algorithm: multiply END')
     return input * mul
 
-
-
-
-
-
-
-
-
